@@ -1,5 +1,0 @@
-# helloworld
-
-HI
-MyName
-MyFirstProject
